@@ -1,2 +1,2 @@
 This is my implementation of the Loc8r app described in Getting MEAN by Simon Holmes.  
-This project is part of a Web Development class at Linn-Benton Community College taught by Joe Paris.
+This version is a restart, 18Jan17, of a previous project.  
